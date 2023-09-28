@@ -1,6 +1,6 @@
 👋 **Hi**
 
-I'm Dmitrii Drujinin - Data Scientist 👀
+I'm Dmitrii Drujinin - Data Scientist 📊
 
 👨‍🎓 **Education**
 
